@@ -1,3 +1,4 @@
-<style>
-div#nav div.navbar-nav{text-align: center;}
-</style>
+body{text-align: center;}
+div#nav{text-align: center;}
+div.navbar-nav{text-align: center;}
+div#nav a{padding:10px; background-color: black; color: aliceblue;}

@@ -1,5 +1,5 @@
-@extends('layout.app');
+@extends('layout.app')
 
 @section('main')
-@include('components.projects');
+@include('components.projects')
 @endsection

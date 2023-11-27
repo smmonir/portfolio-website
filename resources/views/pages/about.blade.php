@@ -1,5 +1,5 @@
 @extends('layout.app');
 
 @section('main')
- @include('components.about');
+ @include('components.about')
 @endsection
